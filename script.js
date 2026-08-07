@@ -1,5 +1,5 @@
 // Data: set totalMarks and students here. Edit this array later.
-const totalMarks = 0;
+const totalMarks = 30;
 const students = [
 	{ name: 'Sanjana', marks: 12 },
     { name: 'Shambhavi', marks: 10 },

@@ -1,13 +1,13 @@
 // Data: set totalMarks and students here. Edit this array later.
-const totalMarks = 30;
+const totalMarks = 80;
 const students = [
-	{ name: 'Sanjana', marks: 12 },
-    { name: 'Shambhavi', marks: 10 },
-	{ name: 'Vaishnavi', marks: 21 },
-    { name: 'Navin', marks: 15 },
-    { name: 'Subrato', marks: 26 },
-	{ name: 'Somya', marks: 14 },
-	{ name: 'Monika', marks: 11 },
+	{ name: 'Sanjana', marks: 32 },
+    { name: 'Shambhavi', marks: 27 },
+	{ name: 'Vaishnavi', marks: 47 },
+    { name: 'Navin', marks: 35 },
+    { name: 'Subrato', marks: 68 },
+	{ name: 'Somya', marks: 32 },
+	{ name: 'Monika', marks: 47 },
 
 ];
 
